@@ -1,0 +1,4 @@
+/* Custom styles */
+.table th, .table td {
+    vertical-align: middle;
+}
